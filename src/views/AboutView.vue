@@ -123,8 +123,8 @@ export default {
       <section
         class="text-sm md:text-lg text-justify flex flex-col gap-4 md:flex-row md:gap-8 md:justify-left md:items-center">
         <div class="flex justify-center">
-          <img class="w-9/12 rounded-full mb-3 fadein-up"
-            src="https://i1.sndcdn.com/avatars-000214125831-5q6tdw-t500x500.jpg" alt="Foto">
+          <img class="w-9/12 rounded-full mb-3 fadein-up border-4 border-purple-custom-200 pict"
+            src="/img/profile.jpg" alt="Foto">
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
@@ -258,5 +258,11 @@ export default {
 
 .item-tech:hover .status-tech {
   opacity: 1;
+}
+
+.pict {
+  box-shadow: 0px 0px 73px -9px rgba(139,92,246,0.44);
+  -webkit-box-shadow: 0px 0px 73px -9px rgba(139,92,246,0.44);
+  -moz-box-shadow: 0px 0px 73px -9px rgba(139,92,246,0.44);
 }
 </style>

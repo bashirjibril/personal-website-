@@ -31,13 +31,13 @@ export default {
         {
           id: 5,
           name: 'Solidity',
-          imageUrl: 'https://docs.soliditylang.org/en/v0.8.19/_static/logo.svg',
+          imageUrl: 'https://raw.githubusercontent.com/ethereum/solidity/develop/docs/logo.svg',
           status: 'Intermediate'
         },
         {
           id: 6,
           name: 'Rust',
-          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg',
+          imageUrl: 'https://www.rust-lang.org/static/images/rust-logo-blk.svg',
           status: 'Beginner'
         },
         {

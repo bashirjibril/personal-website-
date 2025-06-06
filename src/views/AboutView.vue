@@ -30,27 +30,21 @@ export default {
         },
         {
           id: 5,
-          name: 'Laravel',
-          imageUrl: 'https://cdn.worldvectorlogo.com/logos/laravel-2.svg',
-          status: 'Advance'
+          name: 'Solidity',
+          imageUrl: 'https://docs.soliditylang.org/en/v0.8.19/_static/logo.svg',
+          status: 'Intermediate'
         },
         {
           id: 6,
-          name: 'Codeigniter',
-          imageUrl: 'https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png',
-          status: 'Intermediate'
+          name: 'Rust',
+          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg',
+          status: 'Beginner'
         },
         {
           id: 7,
           name: 'VueJS',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp',
           status: 'Intermediate'
-        },
-        {
-          id: 8,
-          name: 'AlpineJS',
-          imageUrl: 'https://avatars.githubusercontent.com/u/59030169?s=200&v=4',
-          status: 'Beginner'
         },
         {
           id: 9,

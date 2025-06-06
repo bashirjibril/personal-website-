@@ -37,7 +37,7 @@ export default {
         {
           id: 6,
           name: 'Rust',
-          imageUrl: 'https://www.rust-lang.org/static/images/rust-logo-blk.svg',
+          imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg',
           status: 'Beginner'
         },
         {

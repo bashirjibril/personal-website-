@@ -128,18 +128,22 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Bagas Rakha Putra. I'm a web developer from Bogor, West Java. I
-            have 1 year of experience in back-end web development.
-            I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
-            has
-            aesthetic value
+Yo. I’m otio — backend enjoyoor, based in the trenches 
+been shipping web stuff for ~1 year, breaking things, fixing them, and vibing with clean code ever since.
+
+I don’t just write functions — I craft backend magic that slaps.
+Your site will run fast, look clean, and won’t rug your users (unless that’s the goal 🤫).
+
+code is art. pixels are memes. uptime is alpha.
+need a dev who gets it?
+lmk — I build for the culture 
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; My job is to build your website to be functional and user-friendly yet still attractive.
-            In addition, I provide a personal touch to your product and ensure that the website catches attention and is
-            easy to use.
-            My goal is to convey your message and identity in the most creative way. If you are interested in hiring me,
-            please contact the listed contact.
+            &nbsp; &nbsp; &nbsp; I build websites that don’t just work — they slap.
+From sleek UI to smooth UX, I make sure your site is fast, clean, and impossible to ignore. I don’t do boring — I add that extra spark that makes people stop scrolling and actually care. Your vision, my craft, one fire site.
+
+You want something that stands out? Let’s cook.
+DM the contact below if you’re serious.
           </p>
         </div>
 

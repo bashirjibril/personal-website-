@@ -9,7 +9,7 @@
           <span class="self-center text-lg text-purple-custom-200 font-semibold whitespace-nowrap fadein-bot hover:text-purple-custom-100">otio.xyz</span>
         </button>
         <div class="flex md:order-2 fadein-bot">
-          <a href="https://x.com/"><img class="w-9 rounded-full" src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png" alt="x"></a>
+          <a href="https://x.com/otio_xyz"><img class="w-9 rounded-full" src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png" alt="x"></a>
         </div>
         <div class="hidden md:flex justify-between items-center w-full md:w-auto md:order-1" id="mobile-menu-3">
           <ul class="flex-col md:flex-row flex md:space-x-8 mt-4 md:mt-0 md:text-sm md:font-medium">
@@ -24,7 +24,7 @@
             </li>
             <li>
               <router-link to="/portfolio"
-                class="fadein-bot fadein-2 text-gray-700 hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-gray-500 md:p-0">Portfolio</router-link>
+                class="fadein-bot fadein-2 text-gray-700 hover:bg-gray-50 border-b border-gray-100 md:hover:bg-transparent md:border-0 block pl-3 pr-4 py-2 md:hover:text-gray-500 md:p-0">services</router-link>
             </li>
           </ul>
         </div>
@@ -39,7 +39,7 @@
   <nav class="flex justify-around py-4 text-xs">
     <router-link to="/" class="text-gray-300 hover:text-white">Home</router-link>
     <router-link to="/about" class="text-gray-300 hover:text-white">About</router-link>
-    <router-link to="/portfolio" class="text-gray-300 hover:text-white">Portfolio</router-link>
+    <router-link to="/portfolio" class="text-gray-300 hover:text-white">Services</router-link>
   </nav>
 </footer>
 </template>

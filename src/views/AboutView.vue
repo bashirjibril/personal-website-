@@ -16,12 +16,7 @@ export default {
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/732/732190.png',
           status: 'Advanced'
         },
-        {
-          id: 3,
-          name: 'PHP',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-php-2038871-1720084.png',
-          status: 'Advanced'
-        },
+
         {
           id: 4,
           name: 'Javascript',
@@ -38,7 +33,7 @@ export default {
           id: 6,
           name: 'Rust',
           imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg',
-          status: 'Beginner'
+          status: 'Advanced'
         },
         {
           id: 7,

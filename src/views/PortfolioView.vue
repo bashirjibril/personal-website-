@@ -6,49 +6,41 @@ export default {
       items: [
         {
           id: 1,
-          name: 'Personal Website',
+          name: 'Web Development',
           imageUrl: 'portfolio_v2',
-          status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
-          tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/Portofolio-v2',
-          demo: 'https://bagasrakha.netlify.app/'
+          status: 'We create websites for projects or memecoins, we do it for cheap, starting from $100 depending on your reputation, most of the projects worked with have grossed over $100k Mcap, we also manage for cheap.',
+          tech: 'JUST HIT ME ON TG👉🏼',
+          github: 'null',
+          demo: 'https://t.me/otio_xyz'
         },
         {
           id: 2,
-          name: 'Sahabat Muslim',
+          name: 'Blockchain Development',
           imageUrl: 'sahabatmuslim',
-          status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
-          tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/muslim-companion',
-          demo: 'https://sahabat-muslim.netlify.app/'
+          status: 'We do blockchain dev for memecoins and crypto projects — token contracts, staking, minting, presale tools — starting from $150. Projects we’ve built for have hit $250k+ MC. Fast, clean, and affordable.',
+          tech: 'Hit me up on telegram 👉🏼',
+          github: 'null',
+          demo: 'https://t.me/otio_xyz'
         },
         {
           id: 3,
-          name: 'SISTEKDES',
+          name: 'Shilling Memecoins',
           imageUrl: 'sistekdes',
-          status: 'Sistem Informasi dan Teknologi Desa, a web application to assist village government work in administration, population data management, community services, etc.',
-          tech: 'Laravel 9, Bootstrap',
+          status: '',
+          tech: 'MY TG 👉🏼',
           github: 'null',
-          demo: 'null'
+          demo: 'https://t.me/otio_xyz'
         },
         {
           id: 4,
-          name: 'Bumdesma',
+          name: 'Community Management',
           imageUrl: 'bumdesma',
-          status: 'a web application used by village-owned enterprises at the sub-district level to make it easier for them in terms of accounting that is equipped with a microfinance balance.',
-          tech: 'Laravel 8, Bootstrap',
+          status: 'We manage communities for memecoins and crypto projects, starting at $75 depending on your rep. We have helped projects grow from zero to thousands of holders, keeping chats active and hyped. Shilling, modding, engaging — we handle it all for cheap.',
+          tech: 'TG👉🏼',
           github: 'null',
-          demo: 'null'
+          demo: 'https://t.me/otio_xyz'
         },
-        {
-          id: 5,
-          name: 'SP2SE',
-          imageUrl: 'sp2se',
-          status: 'Sistem Percepatan Pelayanan Surat Elektronik, A web application to manage letters in the village.',
-          tech: 'Codeigniter 3, Bootstrap',
-          github: 'null',
-          demo: 'null'
-        }
+
       ]
     };
   }
@@ -61,9 +53,9 @@ export default {
         <div
           class="text-2xl font-bold text-white mb-10 fadein-bot title-section flex items-center justify-center flex-col">
           <!-- <div class="h-[1px] w-10 bg-purple-custom-200 md:w-20 aos-init aos-animate"></div> -->
-          <h4>Past Project Experience</h4>
+          <h4>SERVICES</h4>
           <h4 class="text-base font-normal text-transparent bg-clip-text bg-gradient-to-r from-slate-100 to-purple-custom-300">
-            Explore the projects I've worked on so far</h4>
+            Explore the services  I give.</h4>
         </div>
       </header>
       <section>
